@@ -1,0 +1,18 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Torna a página web responsiva -->
+  <title>Consulta de CEP</title> <!-- Define o título da página -->
+</head> <!-- Fecha a tag head -->
+<body> <!-- Abre a tag body que contém o conteúdo da página web -->
+  <div class="container"> <!-- Abre uma div com a classe "container" -->
+    <h1>Consulta de CEP</h1> <!-- Define um cabeçalho de nível 1 -->
+    <label for="cepInput">CEP:</label> <!-- Define um rótulo para o campo de entrada do CEP -->
+    <input type="text" id="cepInput" placeholder="Digite o CEP"> <!-- Define um campo de entrada de texto -->
+    <button onclick="consultarCEP()">Consultar</button> <!-- Define um botão que chama a função "consultarCEP()" quando clicado -->
+    <div id="resultados"></div> <!-- Define uma div onde os resultados serão exibidos -->
+  </div> <!-- Fecha a div "container" -->
+  <script src="/main.js"></script> <!-- Vincula o arquivo JavaScript "main.js" à página web -->
+</body> <!-- Fecha a tag body -->
+</html> <!-- Fecha a tag HTML -->
