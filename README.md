@@ -37,4 +37,4 @@ Abra o navegador e vá para http://localhost:3000 para acessar a aplicação.
 
 ## Contribuições e Problemas 🤝
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões, abra uma issue.
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões.
