@@ -8,14 +8,14 @@ Este é um projeto que permite realizar consultas de endereço utilizando o CEP.
 
 Siga estes passos para configurar e executar o projeto localmente:
 
-### 1. Clonar o repositório
+### 1. Clonar o repositório 📋
 
 ```bash
 git clone https://github.com/Sergio-Gabriell/CEPRegister.git
 cd CEPRegister
 ```
 
-### 2. Instalar as dependências
+### 2. Instalar as dependências 🛠️
 
 Certifique-se de ter o Node.js instalado. Em seguida, instale as dependências do projeto:
 
@@ -23,7 +23,7 @@ Certifique-se de ter o Node.js instalado. Em seguida, instale as dependências d
 npm install
 ```
 
-### 3. Iniciar o servidor
+### 3. Iniciar o servidor 📡
 
 Execute o servidor Node.js:
 
@@ -31,7 +31,7 @@ Execute o servidor Node.js:
 node server.js
 ```
 
-### 4. Acessar a aplicação
+### 4. Acessar a aplicação 👁️
 
 Abra o navegador e vá para http://localhost:3000 para acessar a aplicação.
 
